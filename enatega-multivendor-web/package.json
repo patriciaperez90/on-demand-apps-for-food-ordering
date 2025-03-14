@@ -8,8 +8,10 @@
     "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^5.0.1",
     "@mui/lab": "^6.0.0-beta.17",
-    "@mui/material": "^6.4.7",
-    "@mui/styles": "^5.0.1",
+
+    "@mui/material": "^5.0.1",
+    "@mui/styles": "^6.4.7",
+
     "@react-google-maps/api": "^2.0.2",
     "@sentry/react": "^6.16.1",
     "@sentry/tracing": "^6.16.1",
@@ -38,7 +40,7 @@
     "react-paypal-button-v2": "^2.6.3",
     "react-phone-input-2": "^2.15.0",
     "react-places-autocomplete": "^7.3.0",
-    "react-router-dom": "^6.2.1",
+    "react-router-dom": "^7.3.0",
     "react-scripts": "^4.0.0",
     "react-scroll": "^1.9.2",
     "react-scrollspy": "^3.4.3",
